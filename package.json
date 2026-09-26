@@ -1,0 +1,25 @@
+{
+  "name": "arlowanglab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prohcw/ArloWang-Lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/prohcw/ArloWang-Lab/issues"
+  },
+  "homepage": "https://github.com/prohcw/ArloWang-Lab#readme",
+  "devDependencies": {
+    "wrangler": "^4.141.0"
+  }
+}

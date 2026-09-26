@@ -1,0 +1,13 @@
+{
+	"$schema": "./node_modules/wrangler/config-schema.json",
+	"name": "arlowang-lab",
+	"compatibility_date": "2026-09-26",
+	"pages_build_output_dir": "./dist",
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "arlowang-lab-db",
+			"database_id": "29d2448e-5d81-46a3-9914-442a71aebf18"
+		}
+	]
+}
